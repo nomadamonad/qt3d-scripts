@@ -3,9 +3,9 @@
 function initQtVision(){
 
   const modal = document.querySelector('#qt-vision');
-  if(!modal) return false;
+  if(!modal) return;
 
-  if(modal.dataset.qtBound === "1") return true;
+  if(modal.dataset.qtBound === "1") return;
   modal.dataset.qtBound = "1";
 
   const form = modal.querySelector('#qtVisionForm');
@@ -15,7 +15,7 @@ function initQtVision(){
   const btnReset = modal.querySelector('#qtReset');
   const btnSubmit = modal.querySelector('#qtSubmit');
 
-  if(!form || steps.length === 0) return false;
+  if(!form || steps.length === 0) return;
 
   let i = 0;
 
@@ -31,4 +31,14 @@ function initQtVision(){
 
   btnNext.addEventListener('click', () => showStep(i + 1));
   btnBack.addEventListener('click', () => showStep(i - 1));
-  btnReset.addEventListener('click', () =>
+  btnReset.addEventListener('click', () => showStep(0));
+
+  showStep(0);
+}
+
+// WAIT until full page load
+window.addEventListener('load', function(){
+  initQtVision();
+});
+
+})();
