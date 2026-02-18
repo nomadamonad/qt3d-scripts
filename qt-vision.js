@@ -1,11 +1,10 @@
 (function(){
 
-function bindVision(){
-
+function initWhenReady(){
   const modal = document.querySelector('#qt-vision');
-  if(!modal) return false;
+  if(!modal) return;
 
-  if(modal.dataset.qtBound === "1") return true;
+  if(modal.dataset.qtBound === "1") return;
   modal.dataset.qtBound = "1";
 
   const steps = Array.from(modal.querySelectorAll('.qt-step'));
@@ -14,7 +13,7 @@ function bindVision(){
   const btnReset = modal.querySelector('#qtReset');
   const btnSubmit = modal.querySelector('#qtSubmit');
 
-  if(!steps.length || !btnNext) return false;
+  if(!steps.length || !btnNext) return;
 
   let i = 0;
 
@@ -35,15 +34,15 @@ function bindVision(){
     }
   }
 
-  btnNext.addEventListener('click', () => showStep(i + 1));
-  if(btnBack) btnBack.addEventListener('click', () => showStep(i - 1));
-  if(btnReset) btnReset.addEventListener('click', () => showStep(0));
+  btnNext.onclick = () => showStep(i + 1);
+  if(btnBack) btnBack.onclick = () => showStep(i - 1);
+  if(btnReset) btnReset.onclick = () => showStep(0);
 
   showStep(0);
-
-  return true;
 }
 
-document.addEventListener('DOMContentLoaded', bindVision);
+window.addEventListener('load', function(){
+  setTimeout(initWhenReady, 300);
+});
 
 })();
