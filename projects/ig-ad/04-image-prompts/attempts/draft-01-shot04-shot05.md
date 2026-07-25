@@ -46,16 +46,19 @@ should be visible)?
 ### Frame: Single hero frame (static or subtle push-in)
 ```text
 The finished elephant-head chair — walnut-toned wood, white carved tusks,
-zebra-hide seat cushion — placed in a warm, low-lit mancave/whiskey lounge:
-dark wood shelving stocked with whiskey bottles, a marble-topped bar,
-a round brass coffee table, framed art on stone-textured walls. Camera
-holds on the chair as the clear foreground subject; warm, directional,
-reverent lighting matching the creative brief's cinematic tone. Optional
-subtle slow push-in for the video version.
+zebra-hide seat cushion — placed in a blended mancave lounge: wide-plank
+ebony flooring, a stone wet bar with a granite countertop and backlit glass
+liquor shelving, a round brass coffee table with a chess set, folding glass
+doors open to a small enclosed bonsai courtyard in the background. Framed
+wall art includes a monkey-with-a-cigar painting and the "QT 3DZign" brand
+banner. Camera holds on the chair as the clear foreground subject; warm,
+directional, reverent lighting matching the creative brief's cinematic
+tone. Optional subtle slow push-in for the video version.
 
 Reference: real chair photos/renders (02-references/product/), the
-whiskey-lounge environment render (02-references/environment/), and the
-Elephant_Chair_D5_Textured_360.mp4 turntable for texture/angle consistency.
+blended-environment description (02-references/environment/reference-plan.md),
+and the Elephant_Chair_D5_Textured_360.mp4 turntable for texture/angle
+consistency.
 
 Continuity lock: chair must exactly match its appearance from shots 02–04
 (wood grain, elephant geometry, tusk shape, zebra cushion) — this is the
