@@ -50,8 +50,7 @@ zebra-hide seat cushion — placed in a blended mancave lounge: wide-plank
 ebony flooring, a stone wet bar with a granite countertop and backlit glass
 liquor shelving, a round brass coffee table with a chess set, folding glass
 doors open to a small enclosed bonsai courtyard in the background. Framed
-wall art includes a monkey-with-a-cigar painting and the "QT 3DZign" brand
-banner. Camera holds on the chair as the clear foreground subject; warm,
+wall art includes a monkey-with-a-cigar painting. Camera holds on the chair as the clear foreground subject; warm,
 directional, reverent lighting matching the creative brief's cinematic
 tone. Optional subtle slow push-in for the video version.
 

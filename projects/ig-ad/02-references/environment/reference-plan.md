@@ -16,8 +16,9 @@ here from description so nothing is lost.
   hero chair prominent; whether companion chairs appear alongside it is a
   storyboard-frame decision, not locked yet
 - Dartboard, additional bonsai trees, warm recessed lighting
-- Wall art (confirmed): monkey-with-cigar painting, and the
-  "QT 3DZign — Data + Design + Build" banner as a framed piece
+- Wall art (confirmed): monkey-with-cigar painting only. The
+  "QT 3DZign — Data + Design + Build" banner is business branding, not
+  wall art — excluded from the shot.
 
 ## Open Questions
 1. Once the image transfer works, we need actual files for: the two source
