@@ -11,7 +11,7 @@ Control mode:
 
 | Step | Artifact | Approved? | Notes |
 |---|---|---:|---|
-| Creative brief | | | |
+| Creative brief | elephant-chair-creative-brief.md | Yes | Cinematic/reverent, 9:16 ~15s, follow-for-more CTA |
 | References | | | |
 | Shot list | | | |
 | Image prompts | | | |
