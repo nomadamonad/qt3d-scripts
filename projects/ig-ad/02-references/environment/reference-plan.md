@@ -1,50 +1,57 @@
 # Environment Reference — ig-ad
 
-Real files now on hand — two actual 9:16 vertical mancave-lounge renders,
-already in the correct aspect ratio for this ad:
+## Confirmed: One Single Space
 
-## Option 1 — `RmIG9x16_Monkey_Lounge.png`
-- Dark wood cabinetry with glass doors: books, cigar boxes, Iron Man
-  figures on display
-- Monkey-with-cigar smoke painting on the wall
-- Bonsai trees
-- Tan/brown leather Eames-style lounge chairs
-- Round glass-top coffee table on a bronze/copper cylindrical base, chess
-  set, whiskey bottles
-- Orange area rug, dark plank flooring
+All six renders below are the **same real mancave complex**, seen from
+different angles — not separate room options. It's an indoor lounge that
+opens via full-height glass doors onto an enclosed, open-top bonsai
+courtyard, with a wet bar off to one side.
 
-## Option 2 — `RmIG9x16_Darts_Lounge.png`
-- Dark wood beamed ceiling
-- Stone/granite wet bar, glass shelves holding liquor bottles
-- "ALL POWER TO THE PEOPLE" tiger/panther pop-art poster on the wall
-- Open cigar humidor and leather dopp kit on the counter
-- Potted plant, dark wood flooring
+- `RmIG9x16_Monkey_Lounge.png` — indoor lounge facing the built-ins: dark
+  wood cabinets (books, cigar boxes, Iron Man figures), monkey-with-cigar
+  painting, tan Eames chairs, glass-and-copper coffee table, orange rug
+- `RmIG9x16_Darts_Lounge.png` — same lounge, facing the wet bar: granite
+  counter, glass liquor shelves, "ALL POWER TO THE PEOPLE" tiger/panther
+  poster, open cigar humidor
+- `RmIG_ChessTable_Courtyard_View.png` — the carved chess set/table close
+  up, courtyard visible through the glass doors behind it (yellow
+  mid-century chairs, bonsai trees, stone walls)
+- `RmIG_Lounge_CourtyardWide_View.png` — wide shot: green Eames lounge
+  chairs in the foreground, glass doors open to the same courtyard
+- `RmIG_Courtyard_Night_View.png` — night exterior view from the courtyard
+  looking back in through the glass doors at the lounge (TV, green chairs)
+- `RmIG9x16Yard_Monkey_CourtyardEntry.png` — courtyard entry view: bonsai
+  trees, stone walls, glass doors open to reveal the lounge with the
+  orange abstract painting and copper-topped bar visible inside
 
-Both are candidate real renders for shot 05 — not composites of two ideas
-like the earlier blended draft. That "blend both rooms" direction is
-superseded; we now pick one of these two actual renders (or ask for a
-third) rather than describing an imagined hybrid.
+Common elements across all views: dark wood plank flooring, stone accent
+walls, bonsai trees (indoor shelves and courtyard pots), a round
+copper-rimmed glass coffee table with an ornate carved wooden chess set,
+green/olive leather Eames-style lounge chairs, yellow mid-century chairs
+in the courtyard, a wet bar with glass liquor shelving.
 
-## Product Reference (also now real files)
-- `02-references/product/African_carved_chair_Original.jpeg` — an actual
-  photo of the finished chair (not a render): dark stained wood, deep
-  engraved elephant face/wrinkles, diamond-lattice + tree-of-life panel,
-  cream tusks, zebra-print seat cushion. This is now the ground-truth
-  identity reference for the chair in every shot, superseding the SketchUp
-  renders where they differ.
+## Shot 05 Direction
+Use this real space as the reveal environment. The elephant-head chair
+(from `African_carved_chair_Original.jpeg`, the real photo) needs to be
+composited into one of these views — most likely the lounge interior
+(Monkey Lounge or the wide lounge/courtyard view) rather than the bar or
+courtyard-only views, since that's where the seating/chess-table grouping
+already reads as the "hang out" spot.
+
+## Product Reference
+- `02-references/product/African_carved_chair_Original.jpeg` — the actual
+  finished chair photo; ground-truth identity reference for every shot.
 - `02-references/product/VCarve_ElephantChair_SeatBack_ToolpathScreenshot.png`
-  — the VCarve toolpath screenshot used to correct the shot 04 CNC prompt.
+  — VCarve toolpath screenshot used to correct the shot 04 CNC prompt.
 
-## Brand Asset (not lounge wall art)
-- `00-admin/brand-assets/QT3D_Design_Logo.png` — the "QT3D Design /
-  QT3D.com" logo. Confirmed business branding, not room decor. Open
-  question: use as an end-card/outro bug at the very end of the ad, or
-  don't use it in this ad at all?
+## Brand Asset
+- `00-admin/brand-assets/QT3D_Design_Logo.png` — confirmed: appears as a
+  brief end-card after the chair reveal (shot 09 / final output), not as
+  room decor.
 
 ## Open Questions
-1. Which environment for shot 05: Option 1 (Monkey Lounge), Option 2 (Darts
-   Lounge), or something else?
-2. How many elephant chairs appear in the final reveal (just the one hero
-   chair, or a small grouping) — the real chair photo is a single chair, so
-   default is one unless told otherwise.
-3. QT3D logo: end-card only, or omit entirely?
+1. Which specific view/angle of this space should shot 05's hero frame
+   use — the Monkey Lounge angle, the wide lounge/courtyard angle, or a
+   new composite angle built to match the chair's photographed angle?
+2. How many chairs in frame — the real photo shows one; default to one
+   unless told otherwise.
