@@ -6,40 +6,56 @@ only beats needing generated/composited imagery.
 
 ## Shot 04 — Shopbot CNC Routing The Seat Back
 
+Revised per feedback on draft 1: the panel is the **full seat-back blank**,
+roughly 40" tall x 27" wide (not a small head-sized scrap). The cut is the
+**entire seat-back silhouette** from `Elephant_ChairV1.crv` — two elephant
+ears/heads at the top, tusk-and-trunk line work curling down each side,
+ending in small scrolled "feet" details at the bottom edge of the panel.
+
 ### Frame: First
 ```text
-A Shopbot CNC router mid-cut on a raw wood seat-back panel, clamped flat on
-the machine bed. The router bit is spinning close to the surface, fine wood
-chips and dust scattered around the cut path. The elephant-head silhouette
-is partially traced/emerging from the toolpath — visible as a shallow
-outline, not yet fully carved. Three-quarter overhead angle, workshop
-background softly out of focus. Practical shop lighting, slightly cool/
-neutral (this is the "in progress" beat, before the warm reveal lighting).
+A Shopbot CNC router mid-cut on a large raw wood seat-back panel (roughly
+40 inches tall by 27 inches wide), clamped flat on the machine bed, filling
+most of the frame. The router bit is spinning close to the surface, fine
+wood chips and dust scattered around the cut path. The full seat-back
+silhouette is partially cut: the two elephant ears/heads at the top of the
+panel and the start of the tusk/trunk line work down the sides are visible
+as shallow grooves, with the scrolled "feet" detail at the bottom not yet
+cut. Most of the panel is still a flat, uncut rectangular blank around
+that partial linework. Three-quarter overhead angle showing the full panel
+on the CNC bed, workshop background softly out of focus. Practical shop
+lighting, slightly cool/neutral (this is the "in progress" beat, before
+the warm reveal lighting).
 
-Reference: Elephant_ChairV1.crv toolpath pattern, African_Chair.skp model
-geometry.
+Reference: Elephant_ChairV1.crv toolpath pattern (full seat-back outline —
+ears, tusks, and bottom scroll "feet"), African_Chair.skp model geometry.
 
-Continuity lock: same wood species and tone as the finished chair; elephant
-silhouette must match the approved chair's proportions exactly.
+Continuity lock: same wood species and tone as the finished chair; full
+seat-back silhouette and proportions must match the approved chair exactly
+(this is a full panel, not an isolated head).
 
-Negative prompt: no cartoonish or toy-like machine, no unrelated branding,
-no fantasy elements, no color mismatch with the final chair's walnut tone.
+Negative prompt: no small/scrap-sized wood piece, no isolated elephant head
+floating without the full seat-back silhouette, no cartoonish or toy-like
+machine, no unrelated branding, no fantasy elements, no color mismatch with
+the final chair's walnut tone.
 ```
 
 ### Frame: Last
 ```text
-Same setup, later in the cut. The elephant-head inlay design is now nearly
-fully carved into the panel — tusks, ears, and facial detail clearly
-visible in the raw wood. Dust has settled more. Router bit near the final
-pass. Same camera angle and lighting as the first frame so the shot reads
-as one continuous cut.
+Same setup, later in the cut, same full-size 40"x27" panel filling most of
+the frame. The entire seat-back silhouette is now nearly fully carved:
+both elephant ears/heads, the tusk/trunk lines down each side, and the
+scrolled "feet" details at the bottom edge are all clearly visible cut into
+the panel. Dust has settled more. Router bit near the final pass. Same
+camera angle and lighting as the first frame so the shot reads as one
+continuous cut.
 
-Reference and continuity lock: same as first frame.
+Reference and continuity lock: same as first frame — full panel, full
+silhouette including the bottom scroll "feet."
 ```
 
-Approval question: Are these two frames ready to generate, or does the CNC
-scene need to look different (angle, lighting, how much of the carving
-should be visible)?
+Approval question: Does this match the actual CNC panel and toolpath now,
+or is there anything else to adjust before regenerating?
 
 ## Shot 05 — Finished Chair Reveal In The Mancave Lounge
 
