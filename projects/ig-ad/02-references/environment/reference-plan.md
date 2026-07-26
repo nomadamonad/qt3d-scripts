@@ -1,34 +1,50 @@
 # Environment Reference — ig-ad
 
-Approved direction: **blend both rooms** into one lounge for shot 05.
-Actual image files still haven't transferred (see note at bottom) — logged
-here from description so nothing is lost.
+Real files now on hand — two actual 9:16 vertical mancave-lounge renders,
+already in the correct aspect ratio for this ad:
 
-## Blended Environment — Final Direction
-- Wide-plank ebony (dark) flooring
-- Stone wet bar with a granite countertop, glass shelves behind it holding
-  liquor bottles (combining the granite bar and backlit shelving from both
-  rooms)
-- Folding glass doors opening onto an enclosed, open-top courtyard with
-  bonsai trees and plants on wall-mounted shelves
-- Round brass coffee table with a chess set as the seating group's center
-- The elephant-head chair(s) placed around that table (zebra cushions) —
-  hero chair prominent; whether companion chairs appear alongside it is a
-  storyboard-frame decision, not locked yet
-- Dartboard, additional bonsai trees, warm recessed lighting
-- Wall art (confirmed): monkey-with-cigar painting only. The
-  "QT 3DZign — Data + Design + Build" banner is business branding, not
-  wall art — excluded from the shot.
+## Option 1 — `RmIG9x16_Monkey_Lounge.png`
+- Dark wood cabinetry with glass doors: books, cigar boxes, Iron Man
+  figures on display
+- Monkey-with-cigar smoke painting on the wall
+- Bonsai trees
+- Tan/brown leather Eames-style lounge chairs
+- Round glass-top coffee table on a bronze/copper cylindrical base, chess
+  set, whiskey bottles
+- Orange area rug, dark plank flooring
+
+## Option 2 — `RmIG9x16_Darts_Lounge.png`
+- Dark wood beamed ceiling
+- Stone/granite wet bar, glass shelves holding liquor bottles
+- "ALL POWER TO THE PEOPLE" tiger/panther pop-art poster on the wall
+- Open cigar humidor and leather dopp kit on the counter
+- Potted plant, dark wood flooring
+
+Both are candidate real renders for shot 05 — not composites of two ideas
+like the earlier blended draft. That "blend both rooms" direction is
+superseded; we now pick one of these two actual renders (or ask for a
+third) rather than describing an imagined hybrid.
+
+## Product Reference (also now real files)
+- `02-references/product/African_carved_chair_Original.jpeg` — an actual
+  photo of the finished chair (not a render): dark stained wood, deep
+  engraved elephant face/wrinkles, diamond-lattice + tree-of-life panel,
+  cream tusks, zebra-print seat cushion. This is now the ground-truth
+  identity reference for the chair in every shot, superseding the SketchUp
+  renders where they differ.
+- `02-references/product/VCarve_ElephantChair_SeatBack_ToolpathScreenshot.png`
+  — the VCarve toolpath screenshot used to correct the shot 04 CNC prompt.
+
+## Brand Asset (not lounge wall art)
+- `00-admin/brand-assets/QT3D_Design_Logo.png` — the "QT3D Design /
+  QT3D.com" logo. Confirmed business branding, not room decor. Open
+  question: use as an end-card/outro bug at the very end of the ad, or
+  don't use it in this ad at all?
 
 ## Open Questions
-1. Once the image transfer works, we need actual files for: the two source
-   room renders and each piece of wall art, to composite/match against in
-   shot 05.
+1. Which environment for shot 05: Option 1 (Monkey Lounge), Option 2 (Darts
+   Lounge), or something else?
 2. How many elephant chairs appear in the final reveal (just the one hero
-   chair, or a small grouping) — to be settled at the storyboard-frame
-   step.
-
-## Transfer Note
-Images pasted inline in chat aren't reaching this project's filesystem;
-only files sent via an explicit file-attach action (as done for the .mp4,
-.skp, and .crv files) can be copied into this repo.
+   chair, or a small grouping) — the real chair photo is a single chair, so
+   default is one unless told otherwise.
+3. QT3D logo: end-card only, or omit entirely?
