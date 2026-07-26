@@ -1,44 +1,38 @@
-# Shot Map — ig-ad (draft)
+# Shot Map — ig-ad
 
 Narrative arc: digital design → CNC fabrication → finished cultural art
 piece, ending on the reveal in its intended setting.
 
 | Shot | Beat | Source | Notes |
 |---|---|---|---|
-| 01 | SketchUp modeling montage — building the chair | Real screen recording | Timelapse/sped-up feel; establishes "designed, not just built" |
-| 02 | Finished, no-texture model — 360° turntable | Real SketchUp screen recording or rendered turntable | First clean look at the full silhouette: elephant heads, tusks, legs |
-| 03 | VCarve — adding elephant inlays, textures, design elements | Real screen recording | Shows the carving/inlay detail being defined digitally before cutting |
-| 04 | Shopbot CNC routing the seat-back panel | Real camera footage of the machine cutting | Needs a physical camera on/near the CNC — see question below |
-| 05 | Finished chair reveal — lounge interior (monkey-painting angle) | Photo/render composite | Hero shot #1; chair placed in the indoor lounge |
-| 06 | Finished chair reveal — courtyard/yard angle | Photo/render composite | Hero shot #2; same real space, courtyard view. Where "follow for more" beat can land |
+| 01 | Finished, no-texture model — 360° turntable / wireframe rotation | Real footage (`five-scene-sequence-v1/v2.mp4`) | Opens the ad; no separate "building the model" montage exists, so this is the true opening beat |
+| 02 | VCarve — elephant inlays, diamond-lattice, tree-of-life texture reveal | Real footage (`five-scene-sequence-v1/v2.mp4`) | Textured/engraved detail reveal, close-up on the carving |
+| 03 | Shopbot CNC routing the seat-back panel | Real footage (`five-scene-sequence-v1/v2.mp4`) — dust/sparks close-up already exists | Confirm whether to use this real footage or the Seedance-generated version as final |
+| 04 | Finished chair reveal — lounge interior (monkey-painting angle) | Generated (Seedance 2.0 + real chair/painting references) | Hero shot #1 — **approved** |
+| 05 | Finished chair reveal — courtyard/yard angle | Generated (Seedance 2.0 + real chair reference) | Hero shot #2 — **approved**; where "follow for more" beat can land |
 
 ## Continuity Locks
-- Same wood grain/finish across shots 02–06
-- Same elephant-head geometry and tusk shape (from the .skp model and the
-  real chair photo) across 02, 03, 05, 06
-- Zebra-hide seat cushion visible and consistent from shot 02 onward
-- Same warm, reverent lighting style once we leave the screen-recording
-  shots (04 onward, physical footage)
-- Shots 05 and 06 are the same real mancave/courtyard space — lighting and
+- Same wood grain/finish across all shots
+- Same elephant-head geometry and tusk shape (from the real chair photo)
+  throughout
+- Zebra-hide seat cushion visible and consistent from shot 01 onward
+- Same warm, reverent lighting style from shot 03 onward (physical/generated
+  footage)
+- Shots 04 and 05 are the same real mancave/courtyard space — lighting and
   material continuity between them matters as much as chair continuity
 
-## What's Different From The Default Workflow
-Shots 01–03 are screen recordings of your actual software, not AI-generated
-video — there's no "first frame / last frame" to lock, so `04-image-prompts`
-and `06-video-prompts` mostly apply to shots 04–05 (and only where AI
-generation is actually needed, e.g. compositing the chair into the lounge).
-
 ## Resolved
-1. Shot 04 (CNC routing the seat back): **no real footage exists** — this
-   shot needs to be AI-generated/simulated. Will need an image prompt (CNC
-   router mid-cut on the seat-back panel, bit spinning, chips/dust, elephant
-   inlay pattern emerging) and a video prompt for the cutting motion.
-2. Shot 05 (finished chair in the mancave lounge): the lounge is a
-   **3D-rendered environment** (the whiskey-bar/chess-table render) — the
-   finished chair needs to be digitally composited/AI-placed into it, using
-   the real chair renders/photos as the identity reference so it matches
-   shots 02–04.
+1. There is no separate "modeling from scratch" footage — the ad opens on
+   the already-built wireframe/turntable instead of a build montage.
+2. The mancave lounge/courtyard (shots 04–05) is the confirmed final
+   environment. An earlier version of the source footage ended in a
+   billiards/game room — that's superseded and not used.
+3. Shots 04–05 are approved, generated via Higgsfield Seedance 2.0 using
+   the real chair photo (and, for shot 04, the real painting) as identity
+   references.
 
-## Approval Question
-Does this shot order match what you want, or should shots be added,
-combined, or reordered before we lock it?
+## Open Question
+Shot 03 (CNC cutting): the real five-scene-sequence footage already has a
+usable close-up (router bit, dust/sparks) — use that real clip, the fresh
+Seedance regeneration (built from the real VCarve screenshot), or trim/blend
+both?
