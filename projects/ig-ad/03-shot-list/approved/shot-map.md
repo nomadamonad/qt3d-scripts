@@ -9,15 +9,18 @@ piece, ending on the reveal in its intended setting.
 | 02 | Finished, no-texture model — 360° turntable | Real SketchUp screen recording or rendered turntable | First clean look at the full silhouette: elephant heads, tusks, legs |
 | 03 | VCarve — adding elephant inlays, textures, design elements | Real screen recording | Shows the carving/inlay detail being defined digitally before cutting |
 | 04 | Shopbot CNC routing the seat-back panel | Real camera footage of the machine cutting | Needs a physical camera on/near the CNC — see question below |
-| 05 | Finished chair reveal in the mancave lounge | Photo/render composite | Hero shot; the payoff. Also where "follow for more" beat can land |
+| 05 | Finished chair reveal — lounge interior (monkey-painting angle) | Photo/render composite | Hero shot #1; chair placed in the indoor lounge |
+| 06 | Finished chair reveal — courtyard/yard angle | Photo/render composite | Hero shot #2; same real space, courtyard view. Where "follow for more" beat can land |
 
 ## Continuity Locks
-- Same wood grain/finish across shots 02–05
-- Same elephant-head geometry and tusk shape (from the .skp model) across
-  02, 03, 05
+- Same wood grain/finish across shots 02–06
+- Same elephant-head geometry and tusk shape (from the .skp model and the
+  real chair photo) across 02, 03, 05, 06
 - Zebra-hide seat cushion visible and consistent from shot 02 onward
 - Same warm, reverent lighting style once we leave the screen-recording
-  shots (03 onward, physical footage)
+  shots (04 onward, physical footage)
+- Shots 05 and 06 are the same real mancave/courtyard space — lighting and
+  material continuity between them matters as much as chair continuity
 
 ## What's Different From The Default Workflow
 Shots 01–03 are screen recordings of your actual software, not AI-generated
