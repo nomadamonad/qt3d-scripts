@@ -6,56 +6,65 @@ only beats needing generated/composited imagery.
 
 ## Shot 04 — Shopbot CNC Routing The Seat Back
 
-Revised per feedback on draft 1: the panel is the **full seat-back blank**,
-roughly 40" tall x 27" wide (not a small head-sized scrap). The cut is the
-**entire seat-back silhouette** from `Elephant_ChairV1.crv` — two elephant
-ears/heads at the top, tusk-and-trunk line work curling down each side,
-ending in small scrolled "feet" details at the bottom edge of the panel.
+Revised again per the actual VCarve screenshot
+(`VCarve_ElephantChair_SeatBack_ToolpathScreenshot.png`). This is not a
+silhouette cutout — it's a **V-carve line engraving** (V-bit, 45deg/0.75",
+hatch fill) on a flat panel, job dimensions exactly **35" wide x 50" tall x
+2" deep**. The design, top to bottom:
+- Two large elephant ears framing a detailed elephant face (eyes, wrinkles,
+  fine linework)
+- Tusks/trunk curling down each side
+- A diamond-lattice geometric pattern filling the center "torso" panel
+- A Tree of Life medallion centered within that lattice
+- Elephant feet with toe/nail detail at the very bottom edge
+- A small blank rectangular cutout low in the panel (hardware/plaque area)
 
 ### Frame: First
 ```text
-A Shopbot CNC router mid-cut on a large raw wood seat-back panel (roughly
-40 inches tall by 27 inches wide), clamped flat on the machine bed, filling
-most of the frame. The router bit is spinning close to the surface, fine
-wood chips and dust scattered around the cut path. The full seat-back
-silhouette is partially cut: the two elephant ears/heads at the top of the
-panel and the start of the tusk/trunk line work down the sides are visible
-as shallow grooves, with the scrolled "feet" detail at the bottom not yet
-cut. Most of the panel is still a flat, uncut rectangular blank around
-that partial linework. Three-quarter overhead angle showing the full panel
-on the CNC bed, workshop background softly out of focus. Practical shop
-lighting, slightly cool/neutral (this is the "in progress" beat, before
-the warm reveal lighting).
+A Shopbot CNC router mid-engraving on a large flat wood panel, 35 inches
+wide by 50 inches tall by 2 inches thick, clamped flat on the machine bed
+and filling most of the frame. A V-bit is tracing fine, shallow engraved
+lines into the wood surface — this is delicate line engraving, not deep
+pocket cutting. So far only the upper portion is engraved: the two large
+elephant ears and the detailed elephant face (eyes, wrinkles) are visible
+as fine carved linework at the top of the panel. The tusks, the diamond-
+lattice torso pattern, the Tree of Life medallion, and the elephant feet
+lower on the panel are not yet engraved — that area is still smooth, blank
+wood. Fine dust sits along the finished lines. Three-quarter overhead angle
+showing the whole tall panel on the CNC bed, workshop background softly
+out of focus, practical shop lighting, slightly cool and neutral.
 
-Reference: Elephant_ChairV1.crv toolpath pattern (full seat-back outline —
-ears, tusks, and bottom scroll "feet"), African_Chair.skp model geometry.
+Reference: VCarve_ElephantChair_SeatBack_ToolpathScreenshot.png (exact
+design and layout), Elephant_ChairV1.crv toolpath, African_Chair.skp model
+geometry.
 
-Continuity lock: same wood species and tone as the finished chair; full
-seat-back silhouette and proportions must match the approved chair exactly
-(this is a full panel, not an isolated head).
+Continuity lock: same wood species and tone as the finished chair; the
+engraved linework (ears, face, tusks, lattice, tree-of-life medallion,
+feet) must match the reference screenshot's layout and proportions exactly.
 
-Negative prompt: no small/scrap-sized wood piece, no isolated elephant head
-floating without the full seat-back silhouette, no cartoonish or toy-like
-machine, no unrelated branding, no fantasy elements, no color mismatch with
-the final chair's walnut tone.
+Negative prompt: no deep silhouette cutout, no small/scrap-sized wood
+piece, no missing lattice/tree-of-life/feet detail, no cartoonish or
+toy-like machine, no unrelated branding, no color mismatch with the final
+chair's walnut tone.
 ```
 
 ### Frame: Last
 ```text
-Same setup, later in the cut, same full-size 40"x27" panel filling most of
-the frame. The entire seat-back silhouette is now nearly fully carved:
-both elephant ears/heads, the tusk/trunk lines down each side, and the
-scrolled "feet" details at the bottom edge are all clearly visible cut into
-the panel. Dust has settled more. Router bit near the final pass. Same
-camera angle and lighting as the first frame so the shot reads as one
-continuous cut.
+Same setup, same 35"x50"x2" panel filling most of the frame, later in the
+job. The full engraving is now nearly complete top to bottom: elephant
+ears and face, tusks curling down each side, the diamond-lattice torso
+pattern with the Tree of Life medallion centered in it, and the elephant
+feet with toe detail at the bottom edge are all clearly visible as fine
+engraved linework. Fine dust along the completed lines. V-bit making its
+final pass near the feet detail at the bottom. Same camera angle and
+lighting as the first frame so the shot reads as one continuous pass.
 
-Reference and continuity lock: same as first frame — full panel, full
-silhouette including the bottom scroll "feet."
+Reference and continuity lock: same as first frame — full engraved design
+matching the VCarve screenshot exactly, top to bottom.
 ```
 
-Approval question: Does this match the actual CNC panel and toolpath now,
-or is there anything else to adjust before regenerating?
+Approval question: Does this match the actual VCarve design and job
+dimensions now, or is there anything else to adjust before regenerating?
 
 ## Shot 05 — Finished Chair Reveal In The Mancave Lounge
 
