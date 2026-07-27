@@ -26,8 +26,12 @@ these URLs and drop the file(s) in this folder):
   strengthened the prompt to require a visible floor/rug gap between
   chair and table, plus right-side sunlight with matching shadows):
   https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_020159_1c2beece-1749-4616-b3dc-b1839dc35839.png
+- v5 (edited from v4 via Nano Banana Flash — the "nano_banana_2" the user
+  requested resolved to this model server-side): elephant chair's seat
+  cushion changed to black-and-white zebra hide print, wall color/tone
+  adjusted to pop more while keeping the stone accent texture:
+  https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_020931_0c52ab5e-558e-42b2-a687-57f3afb72383.png
 
-Not yet approved — needs review: is the chair now clearly separate from
-the glass table (visible gap, no overlap/fusion), does the right-side
-sunlight read naturally with matching shadows, and do the other 3 chairs
-+ room stay untouched?
+Not yet approved — needs review: does the zebra-hide cushion read
+correctly, does the new wall tone actually complement the room without
+looking off, and is the chair/table separation from v4 still intact?
