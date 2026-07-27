@@ -88,6 +88,19 @@ Not yet approved — needs review: does the emerald/gold rug palette read
 as a sophisticated color pop rather than clashing, and is the room's
 overall balance better than v10?
 
+## v12 (giraffe-print rug)
+Switched the rug concept entirely: an authentic giraffe-print hide rug
+(cream/tan with irregular brown polygon patches) instead of an Adinkra
+pattern, intended to pair naturally with the chair's zebra-hide cushion
+as two complementary animal prints. All other v10/v11 fixes (chair scale,
+tusks, cushion, gap, distinct paintings, espresso floor, right-side
+sunlight) carried forward.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_040114_39abbe8b-a649-4dca-8bd5-59f7b08c32f5.png
+
+Not yet approved — needs review: does the giraffe/zebra print pairing
+work, or does it read as too matchy/busy alongside the chair's cushion?
+
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a
   darker ebony/espresso floor stain, per interior-design feedback):
