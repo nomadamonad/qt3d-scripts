@@ -12,11 +12,9 @@ start-frame), using v14 as the start image.
 - Prompt: slow cinematic zoom and pan across the room, holding on the
   elephant chair, no other changes
 
-Video URL (couldn't be downloaded into this repo — network policy blocks
-this session from fetching the Higgsfield CDN host directly; save it from
-this URL and drop the file in this folder):
-
-https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_042650_3e501f92-f3f1-42b1-818b-452493bc9590.mp4
+Video file: `shot-06-closing-chair-swap.mp4` (in this folder — user
+downloaded it from Higgsfield and re-uploaded it here, working around the
+network-policy block on fetching the CDN directly).
 
 Approved as the ad's closing scene, following the lounge and courtyard
 reveals (shots 04/05).
