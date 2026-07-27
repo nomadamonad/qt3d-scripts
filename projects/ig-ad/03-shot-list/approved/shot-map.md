@@ -31,8 +31,12 @@ piece, ending on the reveal in its intended setting.
    the real chair photo (and, for shot 04, the real painting) as identity
    references.
 
-## Open Question
-Shot 03 (CNC cutting): the real five-scene-sequence footage already has a
-usable close-up (router bit, dust/sparks) — use that real clip, the fresh
-Seedance regeneration (built from the real VCarve screenshot), or trim/blend
-both?
+## Resolved (cont'd)
+4. Shot 03/04 (CNC routing) is generated, not the real footage: a still
+   (Higgsfield `marketing_studio_image`, referencing the real VCarve
+   screenshot) animated into a 4s video (Higgsfield Kling 3.0 Turbo,
+   image-to-video) showing the V-bit routing along the trunk line with
+   dust forming. Virality Predictor scored it 51/100 overall with a weak
+   hook_score (34) — accepted anyway since this is a mid-ad B-roll shot,
+   not the opening hook. See
+   `07-transition-videos/approved/shot-04-cnc-routing.md`.
