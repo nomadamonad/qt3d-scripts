@@ -36,6 +36,28 @@ Not yet approved — needs review: does the zebra-hide cushion read
 correctly, does the new wall tone actually complement the room without
 looking off, and is the chair/table separation from v4 still intact?
 
+## Clean Restart (v9)
+v1-v8 chained edits on top of edits, and quality/accuracy degraded each
+generation (classic compounding drift). Restarted from the three original
+clean references instead of the degraded v8 image:
+- `RmTV_WideBar_MonkeyPantherView.png` (base room photo)
+- `African_carved_chair_Original.jpeg` (chair identity)
+- `All_Power_To_The_People_Original.png` (panther artwork)
+
+One comprehensive prompt in a single generation (Higgsfield Nano Banana
+2/Flash), covering every fix found across v1-v8 at once: tusks curling
+outward to the sides (not into the seat), zebra-hide cushion, chair fully
+separate from the glass table with a visible gap, two distinct paintings
+(panther left, monkey right, not duplicated), African tribal rug
+(Zulu/Zambian/Sudanese style, not Aztec), dark espresso floor stain,
+natural sunlight from the right with matching shadows.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_033927_61740766-527c-40dc-848a-768d44b7cd1d.png
+
+Not yet approved — this is the recommended candidate going forward
+instead of v8; v1-v8 should be treated as superseded/abandoned rather
+than a chain to keep building on.
+
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a
   darker ebony/espresso floor stain, per interior-design feedback):
