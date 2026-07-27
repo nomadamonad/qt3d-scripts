@@ -35,3 +35,13 @@ these URLs and drop the file(s) in this folder):
 Not yet approved — needs review: does the zebra-hide cushion read
 correctly, does the new wall tone actually complement the room without
 looking off, and is the chair/table separation from v4 still intact?
+
+## Animated Version (from v5)
+Higgsfield Kling 3.0 Turbo, image-to-video from v5, 4s / 720p / 16:9,
+silent. Prompt: slow cinematic zoom and pan across the room, holding on
+the elephant chair, no other changes.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_023115_8878ba09-9407-40a6-81fb-0871208c5ea6.mp4
+
+Not yet approved — pending review of the still (v5) first, and whether
+the zoom/pan motion works as the ad's closing beat.
