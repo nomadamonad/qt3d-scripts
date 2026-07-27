@@ -55,6 +55,19 @@ file for the room, which wasn't opening/working on the user's end — there
 is no `.skp` for the environment (unlike the chair's `African_Chair.skp`),
 so these images are the ground-truth reference for the space.
 
+Three more angles followed:
+- `RmCourtyard_Skull_OrangeChairs_DayView.png` — courtyard corner, daytime:
+  bonsai/magnolia trees, an animal-skull ornament on a wall shelf, orange
+  outdoor cushioned chairs, opening back into the lounge (TV, fist poster,
+  bar visible through the glass)
+- `RmLounge_Bar_TVWall_Wide_View.png` — wide interior shot combining the
+  TV wall and the granite bar counter (with cooktop) in one frame, teal
+  cabinet glass, fist poster, cannabis plant in the foreground, courtyard
+  visible through the open glass doors
+- `RmCourtyard_OrangeChairs_NightView_TVSmartHub.png` — same courtyard
+  corner at night, looking in through the glass at the TV (showing its
+  smart-hub home screen) and the fist poster, interior lit warmly
+
 Common elements across all views: dark wood plank flooring, stone accent
 walls, bonsai trees (indoor shelves and courtyard pots), a round
 copper-rimmed glass coffee table with an ornate carved wooden chess set,
