@@ -36,6 +36,24 @@ bar — **panther piece is to the left of the monkey piece**.
 - `All_Power_To_The_People_Original.png` — the panther artwork itself,
   isolated (cream/red/navy pop-art panther roaring, "ALL POWER TO THE
   PEOPLE" lettering)
+- `RmLounge_TV_NYCSkyline_View.png` / `RmLounge_TV_SmartTVHome_View.png` —
+  new angle, not previously captured: the lounge facing the wall-mounted
+  TV (showing a NYC skyline photo in one, the smart-TV home screen in the
+  other) and teal-glass cabinet doors below it, with the American-flag
+  fist poster and a small dartboard to the right, bar shelving visible at
+  the frame edge
+- `RmBar_Wide_MonkeyPanther_View3.png` / `RmBar_Wide_MonkeyPanther_View4.png`
+  — additional wide bar-wall shots, same framing family as
+  `RmTV_WideBar_MonkeyPantherView.png` (both art pieces, dartboard, whiskey
+  shelving, chess table in front)
+- `RmCourtyard_YellowChairs_BonsaiWall_View.png` — courtyard seating close
+  up: yellow mid-century chairs, bonsai trees on wall-mounted shelves,
+  potted plants, glass doors open to the lounge/bar beyond
+
+These five were supplied as photos/renders in place of a SketchUp source
+file for the room, which wasn't opening/working on the user's end — there
+is no `.skp` for the environment (unlike the chair's `African_Chair.skp`),
+so these images are the ground-truth reference for the space.
 
 Common elements across all views: dark wood plank flooring, stone accent
 walls, bonsai trees (indoor shelves and courtyard pots), a round
