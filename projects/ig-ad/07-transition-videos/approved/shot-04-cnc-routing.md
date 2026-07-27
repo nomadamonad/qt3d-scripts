@@ -19,11 +19,9 @@ account.
   100 (no drop-off once watching). Accepted as-is since this is a mid-ad
   B-roll shot, not the opening hook.
 
-Video URL (couldn't be downloaded into this repo — network policy blocks
-this session from fetching the Higgsfield CDN host directly; save it from
-this URL and drop the file in this folder):
-
-https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_004244_0cba45bc-2840-4c94-95b1-d5be31e9156f.mp4
+Video file: `shot-04-cnc-routing.mp4` (in this folder — user downloaded it
+from Higgsfield and re-uploaded it here, working around the network-policy
+block on fetching the CDN directly).
 
 Approved — kept as-is despite the weak hook score; this shot doesn't need
 to carry the hook.
