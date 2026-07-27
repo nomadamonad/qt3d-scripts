@@ -8,8 +8,7 @@ piece, ending on the reveal in its intended setting.
 | 01 | Finished, no-texture model — 360° turntable / wireframe rotation | Real footage (`five-scene-sequence-v1/v2.mp4`) | Opens the ad; no separate "building the model" montage exists, so this is the true opening beat |
 | 02 | VCarve — elephant inlays, diamond-lattice, tree-of-life texture reveal | Real footage (`five-scene-sequence-v1/v2.mp4`) | Textured/engraved detail reveal, close-up on the carving |
 | 03 | Shopbot CNC routing the seat-back panel | Real footage (`five-scene-sequence-v1/v2.mp4`) — dust/sparks close-up already exists | Confirm whether to use this real footage or the Seedance-generated version as final |
-| 04/05 | Finished chair reveal — ONE continuous camera move from the bar/chess-table wide view into the courtyard-facing seating area, elephant chair visible throughout | Generated (elephant-chair composited stills as start/end keyframes + Kling 3.0 start/end-frame transition) | **Approved.** Replaces the earlier separate lounge and courtyard clips (files were never available to download); see `07-transition-videos/approved/shot-04-05-06-continuous.md` |
-| 06 | Standalone closing zoom/pan on the bar/chess-table chair-swap still (v14) | Generated | **Superseded/optional** — the 04/05 continuous shot above already opens on this exact composition before moving to the courtyard, so this standalone clip is redundant unless a shorter cutaway is wanted separately |
+| 04/05 | Finished chair reveal — ONE continuous camera move from the bar/chess-table wide view into the courtyard-facing seating area, elephant chair visible throughout | Generated (elephant-chair composited stills as start/end keyframes + Kling 3.0 start/end-frame transition) | **Approved.** Replaces the earlier separate lounge and courtyard clips (files were never available to download) and the standalone closing clip (dropped as redundant); see `07-transition-videos/approved/shot-04-05-06-continuous.md`. This is now the ad's closing shot. |
 
 ## Continuity Locks
 - Same wood grain/finish across all shots
@@ -62,6 +61,9 @@ piece, ending on the reveal in its intended setting.
    to serve as an end-frame, and Kling 3.0's start/end-frame transition
    connects it to the v14 closing-scene still as the start-frame — one
    shot moving from the bar/chess-table view into the courtyard, instead
-   of three separate clips. This makes the standalone shot 06 closing
-   video redundant (see shot 06 note above), since the continuous shot
-   already opens on that same composition.
+   of three separate clips.
+8. The standalone shot 06 closing clip (zoom/pan on v14 alone) was
+   dropped — the continuous 04/05 shot already opens on that exact
+   composition, so keeping both would have been redundant. The final ad
+   is now 4 shots: turntable, VCarve reveal, CNC routing, and the
+   continuous bar-to-courtyard reveal as the closing shot.
