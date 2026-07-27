@@ -41,7 +41,8 @@ looking off, and is the chair/table separation from v4 still intact?
   darker ebony/espresso floor stain, per interior-design feedback):
   https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_024035_f16c3731-b848-4677-8b3f-81f4ed94d39e.png
 - v7 (edited from v6, fixing the tusks — they were protruding into the
-  seat area instead of curling outward to the sides): pending, see below
+  seat area instead of curling outward to the sides along the chair):
+  https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_024204_f97784a3-a7a4-4ab3-a256-f6ef5200c75d.png
 
 ## Animated Version (from v5)
 Higgsfield Kling 3.0 Turbo, image-to-video from v5, 4s / 720p / 16:9,
