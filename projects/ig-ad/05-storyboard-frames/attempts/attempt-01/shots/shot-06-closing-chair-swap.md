@@ -72,6 +72,22 @@ https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_2026072
 Not yet approved — needs review: does the chair now match the other
 chairs' scale, and does the Adinkra rug's palette actually fit the room?
 
+## v11 (color palette fix)
+Room read as too monochrome brown (wood floor, wood chairs, brown rug all
+blending together). Regenerated again from the same three clean original
+references with a designer-eye color fix: rug recolored to a deep
+emerald/jade field with gold/brass Adinkra symbols and cream accents,
+echoing the room's existing teal-glass cabinet accents for a deliberate
+color pop instead of another shade of brown. All other v10 fixes (chair
+scale, tusks, cushion, gap, distinct paintings, espresso floor, right-side
+sunlight) carried forward in the same prompt.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_035411_2c5d4718-17c7-4b48-baa4-ffb08b0a4866.png
+
+Not yet approved — needs review: does the emerald/gold rug palette read
+as a sophisticated color pop rather than clashing, and is the room's
+overall balance better than v10?
+
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a
   darker ebony/espresso floor stain, per interior-design feedback):
