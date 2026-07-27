@@ -10,6 +10,7 @@ piece, ending on the reveal in its intended setting.
 | 03 | Shopbot CNC routing the seat-back panel | Real footage (`five-scene-sequence-v1/v2.mp4`) — dust/sparks close-up already exists | Confirm whether to use this real footage or the Seedance-generated version as final |
 | 04 | Finished chair reveal — lounge interior (monkey-painting angle) | Generated (Seedance 2.0 + real chair/painting references) | Hero shot #1 — **approved** |
 | 05 | Finished chair reveal — courtyard/yard angle | Generated (Seedance 2.0 + real chair reference) | Hero shot #2 — **approved**; where "follow for more" beat can land |
+| 06 | Closing scene — elephant chair swapped into the bar/chess-table lounge view (4-chair grouping) | Generated (real room photo + real chair photo, edited) | Closing beat — **approved** (v14); giraffe-print rug, espresso floor, right-side sunlight |
 
 ## Continuity Locks
 - Same wood grain/finish across all shots
@@ -48,9 +49,12 @@ piece, ending on the reveal in its intended setting.
    `05-storyboard-frames/attempts/attempt-01/shots/shot-06-closing-chair-swap.md`
    (v14, approved).
 
-## Open Question
-Does this new chair-swap closing scene replace the currently-approved
-shot 05 courtyard "follow for more" reveal above, sit alongside it as an
-additional shot, or replace shot 04's lounge reveal instead (same bar/
-chess-table space, different angle than either existing hero shot)? Not
-yet decided — needs a call before stitching.
+## Resolved (cont'd)
+6. The real room reference photos (`02-references/environment/`) were
+   never per-shot-locked stills — they're flexible coverage of the whole
+   mancave/courtyard space, supplied so any angle could be chosen for
+   motion/animation as needed. So the chair-swap closing scene isn't
+   competing with shots 04/05's lounge and courtyard reveals; it's simply
+   a different framing pulled from that same coverage. It stands as its
+   own beat: the ad's closing scene, following the existing lounge and
+   courtyard reveals.
