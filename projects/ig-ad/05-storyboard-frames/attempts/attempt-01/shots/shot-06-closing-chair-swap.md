@@ -20,8 +20,9 @@ these URLs and drop the file(s) in this folder):
 
 - v1: https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_015733_f969f99a-67ec-492a-8d61-9336b9f99092.png
 - v2 (regenerated, same prompt/references): https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_015930_ea17e46e-b0d3-4522-89b8-e71ea53191f1.png
+- v3 (added: chair must not touch/merge with the glass table; natural
+  sunlight from the right of frame): https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_020037_aaf09721-f64a-4851-b2bd-aa4b05e6eac5.png
 
-Not yet approved — needs review: does the elephant chair's scale/angle
-read naturally in the foreground-right spot, does it match wood tone and
-match the other chair's grounding on the floor/rug, and do the other 3
-chairs + room stay untouched? Which of the two versions is closer?
+Not yet approved — needs review: is the chair now clearly separate from
+the glass table (no morphing/overlap), does the right-side sunlight read
+naturally, and do the other 3 chairs + room stay untouched?
