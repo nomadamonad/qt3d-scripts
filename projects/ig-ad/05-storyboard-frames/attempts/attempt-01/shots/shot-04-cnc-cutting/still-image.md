@@ -15,8 +15,6 @@ session's egress policy).
 This still became the start-frame for the approved CNC routing video (see
 `07-transition-videos/approved/shot-04-cnc-routing.md`).
 
-Image URL (couldn't be downloaded into this repo — network policy blocks
-this session from fetching the Higgsfield CDN host directly; save it from
-this URL and drop the file in this folder):
-
-https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260726_044723_0637dd04-68ef-4a0b-a0fe-237b66cf9907.png
+Image file: `still-01.png` (in this folder — user downloaded it from
+Higgsfield and re-uploaded it here, working around the network-policy
+block on fetching the CDN directly).
