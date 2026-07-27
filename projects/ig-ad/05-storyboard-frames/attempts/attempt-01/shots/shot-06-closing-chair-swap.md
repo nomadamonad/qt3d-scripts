@@ -58,6 +58,20 @@ Not yet approved — this is the recommended candidate going forward
 instead of v8; v1-v8 should be treated as superseded/abandoned rather
 than a chain to keep building on.
 
+## v10 (fresh regen from originals, not chained off v9)
+Two more fixes: the elephant chair wasn't proportioned to match the other
+3 chairs, and the tribal rug's colors didn't fit the room. Regenerated
+again from the same three clean original references (not from v9), with
+an updated prompt: elephant chair scaled to match the other chairs'
+size/proportions, and the rug switched to an Adinkra-symbol pattern
+(Gye Nyame, Sankofa, etc.) in a warm brown/burnt-orange/cream palette
+matching the room instead of the earlier tribal-weave colors.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_034819_15d0ac49-f424-4c34-a478-4fe4c3e03fb8.png
+
+Not yet approved — needs review: does the chair now match the other
+chairs' scale, and does the Adinkra rug's palette actually fit the room?
+
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a
   darker ebony/espresso floor stain, per interior-design feedback):
