@@ -43,6 +43,14 @@ looking off, and is the chair/table separation from v4 still intact?
 - v7 (edited from v6, fixing the tusks — they were protruding into the
   seat area instead of curling outward to the sides along the chair):
   https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_024204_f97784a3-a7a4-4ab3-a256-f6ef5200c75d.png
+- v8 (edited from v7, three fixes: rug was reading as Aztec/Southwestern
+  — replaced with an African tribal textile pattern, Zulu/Zambian/
+  Sudanese-style geometric weaving instead of stepped-diamond motifs;
+  the panther and monkey paintings had become duplicates of each other —
+  fixed so they're two distinct paintings side by side; tusks were still
+  pointing inward toward the seat — redirected to point outward to the
+  chair's left/right sides):
+  https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_025631_d3c4cfb5-3590-406a-b9d8-d705ba82ce01.png
 
 ## Animated Version (from v5)
 Higgsfield Kling 3.0 Turbo, image-to-video from v5, 4s / 720p / 16:9,
