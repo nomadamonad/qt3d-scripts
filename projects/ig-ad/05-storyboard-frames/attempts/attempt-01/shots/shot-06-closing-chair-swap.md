@@ -119,8 +119,7 @@ oversized throne." All other v12/v13 fixes carried forward.
 
 https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_041154_b0ad3701-8402-4a86-b56a-fc1a84c919a3.png
 
-Not yet approved — needs review: is the chair finally proportioned
-correctly against the other 3 chairs?
+**Approved.** v14 is the final closing-scene still.
 
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a

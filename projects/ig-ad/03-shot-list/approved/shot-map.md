@@ -40,3 +40,17 @@ piece, ending on the reveal in its intended setting.
    hook_score (34) — accepted anyway since this is a mid-ad B-roll shot,
    not the opening hook. See
    `07-transition-videos/approved/shot-04-cnc-routing.md`.
+5. New closing-scene candidate, approved after 14 iterations: the real
+   `RmTV_WideBar_MonkeyPantherView.png` interior (chess table, 4 Eames
+   chairs, bar, TV, panther + monkey paintings) edited so the elephant
+   chair replaces the foreground-right chair, with a giraffe-print rug,
+   dark espresso floor, and right-side sunlight. See
+   `05-storyboard-frames/attempts/attempt-01/shots/shot-06-closing-chair-swap.md`
+   (v14, approved).
+
+## Open Question
+Does this new chair-swap closing scene replace the currently-approved
+shot 05 courtyard "follow for more" reveal above, sit alongside it as an
+additional shot, or replace shot 04's lounge reveal instead (same bar/
+chess-table space, different angle than either existing hero shot)? Not
+yet decided — needs a call before stitching.
