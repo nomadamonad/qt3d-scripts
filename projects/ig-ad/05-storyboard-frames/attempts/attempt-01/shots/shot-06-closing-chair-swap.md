@@ -36,6 +36,13 @@ Not yet approved — needs review: does the zebra-hide cushion read
 correctly, does the new wall tone actually complement the room without
 looking off, and is the chair/table separation from v4 still intact?
 
+- v6 (edited from v5, adding the real panther artwork to the left of the
+  monkey painting, a masculine colorful tribal-pattern area rug, and a
+  darker ebony/espresso floor stain, per interior-design feedback):
+  https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_024035_f16c3731-b848-4677-8b3f-81f4ed94d39e.png
+- v7 (edited from v6, fixing the tusks — they were protruding into the
+  seat area instead of curling outward to the sides): pending, see below
+
 ## Animated Version (from v5)
 Higgsfield Kling 3.0 Turbo, image-to-video from v5, 4s / 720p / 16:9,
 silent. Prompt: slow cinematic zoom and pan across the room, holding on
