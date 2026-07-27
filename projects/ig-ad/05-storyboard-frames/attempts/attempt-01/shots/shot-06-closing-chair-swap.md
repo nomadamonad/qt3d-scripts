@@ -101,6 +101,16 @@ https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_2026072
 Not yet approved — needs review: does the giraffe/zebra print pairing
 work, or does it read as too matchy/busy alongside the chair's cushion?
 
+## v13 (chair size + distance from table)
+Chair was still too large and too close to the glass table. Regenerated
+again with an explicit size-down and greater clearance from the table,
+keeping the giraffe-print rug and all other v12 fixes.
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_040343_ef077a53-26da-417f-9e53-63178f35fa48.png
+
+Not yet approved — needs review: does the chair now match the other 3
+chairs' scale and sit at a natural distance from the table?
+
 - v6 (edited from v5, adding the real panther artwork to the left of the
   monkey painting, a masculine colorful tribal-pattern area rug, and a
   darker ebony/espresso floor stain, per interior-design feedback):
