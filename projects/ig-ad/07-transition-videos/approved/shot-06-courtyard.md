@@ -1,3 +1,8 @@
+**SUPERSEDED** — this clip's file was never available to download, and
+the source URL is no longer usable. Replaced by the continuous shot in
+`shot-04-05-06-continuous.md`, which covers this reveal angle as part of
+one combined lounge+courtyard camera move.
+
 # Shot 06 — Courtyard Reveal (Approved)
 
 Generated with Higgsfield Seedance 2.0, using the real chair photo
