@@ -19,11 +19,9 @@ not Kling 3.0 Turbo, since Turbo only supports a single start frame).
   courtyard-facing seating area, elephant chair visible throughout, no
   cuts
 
-Video file: not yet downloaded into this repo — network policy blocks
-this session from fetching the Higgsfield CDN host directly. Save it from
-this URL and drop the file in this folder:
-
-https://d8j0ntlcm91z4.cloudfront.net/user_3H0hgcg9uJbO9PICqN5Q3jDM53u/hf_20260727_043800_6e01d29f-2323-452a-800a-6a1175c1cb56.mp4
+Video file: `shot-04-05-06-continuous.mp4` (in this folder — user
+downloaded it from Higgsfield and re-uploaded it here, working around the
+network-policy block on fetching the CDN directly).
 
 Approved as the combined lounge+courtyard reveal beat, replacing the
 separate shots 04/05.
