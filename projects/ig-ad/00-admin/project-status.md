@@ -2,7 +2,7 @@
 
 ## Current Step
 
-`08-stitching`
+`09-final-output` (preview export only — not approved, see blocker)
 
 ## What Is Locked
 
@@ -18,10 +18,22 @@
 - Transition clips: Yes, all downloaded into the repo as real files —
   `07-transition-videos/approved/shot-04-cnc-routing.mp4` and
   `shot-04-05-06-continuous.mp4`
-- Final output: Not started
+- Stitching: Draft only, not approved —
+  `08-stitching/attempts/attempt-02/draft-02-stitch.mp4`. Reordered per
+  latest feedback (wireframe -> CNC -> rotating textured chair -> room),
+  red SketchUp guide-line removed, wireframe/CNC now crop-to-fill instead
+  of pillarboxed.
+- Final output: A preview-only export exists —
+  `09-final-output/final-video-v1.mp4` (also copied to repo-level
+  `final-outputs/elephant-chair-ig-ad-v1.mp4`) — built at the user's
+  request to see end-to-end limitations, not a signed-off final. See
+  `09-final-output/notes.md` for the full list of gaps.
 
 ## Current Blocker
 
-None — all approved assets are now real files in the repo. Ready to move
-to stitching: combine shots 01/02 (real footage, `02-references/product/`)
-with the two approved transition videos in order per `shot-map.md`.
+Not postable yet. Known gaps (full list in `09-final-output/notes.md`):
+no audio/music/VO at all; no true 360 wireframe turntable footage exists
+in the project (source only has ~3.4s near-static); two shots (rotating
+chair, closing room reveal) are letterboxed pending a decision on
+spending Higgsfield reframe credits; no color/lighting continuity pass
+across the five source types; no closing "follow for more" beat.
